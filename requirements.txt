@@ -1,0 +1,16 @@
+# Core libraries
+numpy==1.24.2           # Commonly used for data handling and numerical operations
+pandas==1.5.3           # Often used for data analysis and management
+
+# Deep Learning and NLP libraries
+torch==2.0.1            # PyTorch library for deep learning
+transformers==4.28.1    # Hugging Face Transformers for pre-trained models and NLP tasks
+
+# Utility libraries
+PyYAML==6.0             # For reading YAML configuration files
+tqdm==4.64.0            # Progress bar library, useful in training and loading tasks
+scikit-learn==1.2.1     # Machine learning library, often used for data preprocessing
+
+# For Jupyter notebooks (optional)
+jupyter==1.0.0          # Enables Jupyter notebooks for interactive demonstrations
+ipython==8.10.0         # Interactive Python (often required for Jupyter)
