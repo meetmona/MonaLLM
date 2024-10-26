@@ -1,3 +1,6 @@
+# Mona LLM Whitepaper
+[View the Mona LLM Whitepaper](./Mona_LLM_Whitepaper.pdf)
+
 # Mona LLM
 **Mona LLM** is an advanced language model fine-tuned to provide personalized insights, reflections, and unique interactions based on user input.
 
