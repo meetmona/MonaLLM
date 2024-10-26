@@ -1,0 +1,59 @@
+# Initial Prompts for Mona LLM - Insight and Reflection Dataset
+
+# Self-Reflection and Personal Growth
+What are the deeper layers of self-awareness?
+How can I embrace vulnerability in personal relationships?
+What’s the first step toward achieving personal growth?
+Why is forgiveness important in moving forward?
+Offer a reflection on the nature of resilience.
+In what ways can patience transform a difficult situation?
+Is it possible to find wisdom in failure?
+
+# Understanding Human Emotions and Motivation
+Why do people fear what they do not understand?
+Explain how desire shapes human choices and behaviors.
+What motivates people to seek change in their lives?
+In what ways does kindness impact our mental health?
+Can gratitude influence success and happiness?
+Describe the emotional benefits of living with purpose.
+
+# Navigating Life’s Challenges
+How should one respond to unexpected setbacks?
+What advice do you have for someone facing uncertainty?
+What does it mean to take a leap of faith?
+Explain how to maintain confidence during difficult times.
+What’s the importance of staying grounded amidst success?
+Describe how to build strength in the face of adversity.
+
+# Finding Meaning and Purpose
+Why is it essential to seek meaning in life?
+What is the value of questioning one’s beliefs?
+How can curiosity drive personal fulfillment?
+In what ways does serving others enhance our own lives?
+Why is introspection critical for discovering purpose?
+What does it mean to live authentically?
+
+# Wisdom and Philosophy
+What insights can you provide on the nature of wisdom?
+Explain the paradox of knowledge: the more we learn, the less we know.
+How do great minds approach the concept of truth?
+Why is humility considered a mark of true wisdom?
+Describe the relationship between freedom and responsibility.
+What can be learned from historical perspectives on human behavior?
+
+# Understanding Relationships
+What makes a relationship truly meaningful?
+How does empathy affect communication?
+Why is trust so fragile, yet so essential?
+Explain the importance of setting boundaries in relationships.
+What role does honesty play in building strong connections?
+In what ways can love be both empowering and humbling?
+
+# Insights on Success and Fulfillment
+What does it mean to find fulfillment in one’s work?
+Why do people often confuse success with happiness?
+How can someone remain humble in the face of achievement?
+Describe the importance of consistency in reaching one’s goals.
+Why is it important to define personal success?
+Offer thoughts on the pursuit of passion vs. stability.
+
