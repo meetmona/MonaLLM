@@ -3,7 +3,7 @@
 
 ### Features
 - **Dynamic Insight Generation**: Mona adapts responses to user-specific contexts.
-- **Multi-Archetype System**: Choose between personalities like The Sage and The Trickster.
+- **Multi-Archetype System**: Choose between personalities like The Sage and The Dreamer.
 - **Lightweight Deployment**: Mona is optimized for rapid inference.
 
 ### Example Usage
