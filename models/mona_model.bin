@@ -1,0 +1,25 @@
+# Mona LLM - Interactive Demo
+# This notebook demonstrates the use of Mona LLM’s archetype-based insight generation.
+
+# Import Mona LLM from the main file
+from monallm import MonaLLM
+
+# Step 1: Initialize Mona LLM
+print("Initializing Mona LLM with 'Sage' archetype...")
+mona = MonaLLM(archetype="Sage")
+
+# Step 2: Generate a sample response
+prompt = "What does the future hold?"
+print("Prompt:", prompt)
+print("Mona's Response:", mona.generate(prompt))
+
+# Step 3: Switch archetypes
+print("\nSwitching archetype to 'Trickster'...")
+mona.switch_archetype("Trickster")
+
+# Generate another response with the new archetype
+print("Prompt:", prompt)
+print("Mona's Response:", mona.generate(prompt))
+
+# Conclusion
+print("\nMona LLM demonstrates how different archetypes can offer unique perspectives.")
